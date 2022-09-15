@@ -1,0 +1,14 @@
+button {
+  padding: 12px 30px;
+  border-radius: 6px;
+  background: linear-gradient(35deg, rgb(80, 83, 234), rgb(51, 110, 237));
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+  background: rgb(52, 54, 191);
+}
